@@ -1,0 +1,27 @@
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\Excel Converter.exe.config
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\Excel Converter.exe
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\Excel Converter.pdb
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\ExcelDataReader.dll
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialDesignColors.dll
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialSkin.dll
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\Newtonsoft.Json.dll
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\ExcelDataReader.pdb
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\ExcelDataReader.xml
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialDesignColors.pdb
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\MainWindow.g.cs
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\App.g.cs
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\Excel Converter_MarkupCompile.cache
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\Excel Converter_MarkupCompile.lref
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\App.baml
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\MainWindow.baml
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\Excel Converter.g.resources
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\ExcelToJson.Properties.Resources.resources
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\ExcelToJson.csproj.GenerateResource.cache
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\ExcelToJson.csproj.CoreCompileInputs.cache
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\ExcelToJson.csproj.CopyComplete
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\Excel Converter.exe
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\Excel Converter.pdb
+C:\Users\FrancXPT\source\repos\ExcelToJson\ExcelToJson\obj\Release\ExcelToJson.csprojAssemblyReference.cache
